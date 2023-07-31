@@ -1,0 +1,30 @@
+{
+  "name": "menubar.js",
+  "version": "0.0.1",
+  "description": "Create a Menubar app with Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/coolstone-tech/menubar.js",
+  "keywords": [
+    "menubar",
+    "electron",
+    "app",
+    "macos",
+    "windows",
+    "linux"
+  ],
+  "author": "CoolStone Tech",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coolstone-tech/menubar.js/issues"
+  },
+  "homepage": "https://github.com/coolstone-tech/menubar.js#readme",
+  "devDependencies": {
+    "electron": "^25.3.2"
+  },
+  "dependencies": {
+    "electron-positioner": "^4.1.0"
+  }
+}
